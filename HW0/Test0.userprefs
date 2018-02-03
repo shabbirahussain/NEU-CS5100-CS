@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{982B1E0B-E5D8-4A51-B3ED-6E7894CD0E32}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hello.c">
+    <Files>
+      <File FileName="hello.c" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test0 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
